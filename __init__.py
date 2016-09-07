@@ -1,1 +1,1 @@
-from asym import *
+from asym.py import *
